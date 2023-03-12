@@ -1,3 +1,4 @@
+<servers>     
 <teamtalk>
 	<host>
 		<name>SIBARUGA</name>
@@ -36,3 +37,4 @@
 		<join><channel>/</channel><password></password></join>
 	</host>
 </teamtalk>
+<servers>
